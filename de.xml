@@ -409,7 +409,7 @@
 <menuStrip1>menuStrip1</menuStrip1>
 <menuItem1>Datei</menuItem1>
 <openToolStripMenuItem>Offene</openToolStripMenuItem>
-<ExitProgram>Ausfahrt</ExitProgram>
+<ExitProgram>Beenden</ExitProgram>
 <this>MARCSpy</this>
 </MarcEdit_frmHex>
 <MarcEdit_frmHTMLResults>
